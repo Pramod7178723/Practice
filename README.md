@@ -1,2 +1,2 @@
 # Practice
-This is time waste
+This is cse111 class
